@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PassportLaia</string>
+    <string name="Accept">Accept</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Apply">Apply</string>
+    <string name="PassportUnderlined"><u>Passport</u></string>
+    <string name="Name">Name:</string>
+</resources>
